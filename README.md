@@ -2,12 +2,7 @@
 
 <!--
 **mytang0/mytang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning to be a good developer
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: mytang0@apache.org
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning to be a good developer
+- 📫 How to reach me: mytang0@apache.org
+- ![mytang0's GitHub stats](https://github-readme-stats.vercel.app/api?username=mytang0&show_icons=true&theme=radical)
