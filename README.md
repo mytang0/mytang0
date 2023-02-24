@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning to be a good developer
 - 📫 How to reach me: mytang0@apache.org
 
-![mytang0's GitHub stats](https://github-readme-stats.vercel.app/api?username=mytang0&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mytang0&show_icons=true&theme=radical)
