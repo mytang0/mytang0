@@ -7,4 +7,4 @@
 - ✨ I'm focusing on logic orchestrator and distributed related components
 - 📫 How to reach me: mytang0@apache.org
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mytang0&show_icons=true&theme=radical)
+# ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mytang0&show_icons=true&theme=radical)
